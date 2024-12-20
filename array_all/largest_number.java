@@ -1,3 +1,4 @@
+package array_all;
 import java.util.Scanner;
 
 class largest_twise {
