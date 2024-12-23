@@ -1,5 +1,6 @@
 package array_all;
 
+// Q1.largest  number in an array
 import java.util.Scanner;
  class max_array {
 
@@ -27,5 +28,6 @@ import java.util.Scanner;
             }
             System.out.println(max  + " is a largest number of an array");
     }
+    //  
 }
 
