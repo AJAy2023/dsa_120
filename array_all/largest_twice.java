@@ -2,7 +2,7 @@ package array_all;
 
 import java.util.Scanner;
 
-//Q1. Solution Vid: https://youtu.be/_Dj2BNXTzCY  
+//Q1. Largest at least twice number 
 
 public class largest_twice {
 
