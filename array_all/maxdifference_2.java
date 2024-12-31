@@ -4,7 +4,7 @@ package array_all;
 
 public class maxdifference_2 {
     public static void main(String[] args) {
-        int [] arr =  {2,4,6,8,7,10};
+        int [] arr =  {2,3,4,8,7};
 
         System.out.println(maxdiff2(arr));
     }
