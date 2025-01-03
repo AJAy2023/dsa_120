@@ -34,3 +34,9 @@ public class twoD_array3 {
 
     }
 }
+
+
+// assigning the  array in program itself 
+
+// syntax is  
+//  int[][] arr = {{1,2,3},{3,4,5}}; this to are the i and j values 
