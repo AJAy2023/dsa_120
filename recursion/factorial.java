@@ -1,6 +1,6 @@
 package recursion;
 
-// Q1 . Take as input n  : -  Print n!
+// Q1 .the factorail number program using the recusrion 
 // input 5 : - 120 
 
 
