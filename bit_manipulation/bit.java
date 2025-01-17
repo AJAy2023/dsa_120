@@ -1,6 +1,7 @@
 //  Take as input a number n. Determine whether it is even or odd. If it is even, 
 // print "even" otherwise print "odd".
-package  dsa_120.bit_manipulation;
+package  bit_manipulation;
+
 import java.util.*;
 public class bit {
 
