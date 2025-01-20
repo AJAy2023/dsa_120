@@ -6,30 +6,28 @@ import java.util.Scanner;
 // Note: Use Recursion and Expected Time complexity is O(logN)
 public class powerprogram {
     public static void main(String[] args) {
-        // taking input 
-       Scanner scn  = new Scanner(System.in);
-       System.out.println("enter the value of a :");
-       int a = scn.nextInt();
-       System.out.println("enter the value of n :");
-       int n = scn.nextInt();
-    //    System.out.println(pow(a,n));
-    int ans  = pow(a, n);
-    System.out.println("the asn is  : " + ans);
+        Scanner scn  = new Scanner(System.in);
+        long a = scn.nextLong();  // Use long to handle larger values
+        long n = scn.nextLong();
+        
+        long result = power(a, n);
+        System.out.println(result);
     }
-    public static int pow(int a, int n)
-    {
-        if(n==1)
-        {
-            return a;
-        }
 
-        int temp = pow(a, n/2);
-        if(n%2==0)
-        {
+    public static long power(long a, long n) {
+        // Base case: anything raised to power 0 is 1
+        if (n == 0) {
+            return 1;
+        }
+        
+        // Recursive calculation
+        long temp = power(a, n / 2);
+        
+        // Combine step
+        if (n % 2 == 0) {
             return temp * temp;
-        }else{
-            return temp*temp*a;
+        } else {
+            return temp * temp * a;
         }
-
     }
 }
