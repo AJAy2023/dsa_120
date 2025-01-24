@@ -19,7 +19,7 @@ public class sorting_removal {
         int ans = 0;
         
         for (int i = 0; i < arr.length; i++) {
-            int temp = arr[i] * (n - i);  // Fixed the formula
+            int temp = arr[i] * (n - i);  
             ans = ans + temp;
         }
         
