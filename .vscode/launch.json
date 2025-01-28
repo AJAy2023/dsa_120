@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "User_Zigzag",
+            "request": "launch",
+            "mainClass": "TWO_D_Arrays_all.User_Zigzag",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "Zig_zag",
+            "request": "launch",
+            "mainClass": "TWO_D_Arrays_all.Zig_zag",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "arra2",
+            "request": "launch",
+            "mainClass": "TWO_D_Arrays_all.arra2",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "twoD_1",
+            "request": "launch",
+            "mainClass": "TWO_D_Arrays_all.twoD_1",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "twoD_array3",
+            "request": "launch",
+            "mainClass": "TWO_D_Arrays_all.twoD_array3",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "perfectSqr",
+            "request": "launch",
+            "mainClass": "all_maths.perfectSqr",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "ReversePartOfArray",
+            "request": "launch",
+            "mainClass": "array_all.ReversePartOfArray",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "array01",
+            "request": "launch",
+            "mainClass": "array_all.array01",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "given_array",
+            "request": "launch",
+            "mainClass": "array_all.given_array",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "largest_twice",
+            "request": "launch",
+            "mainClass": "array_all.largest_twice",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "largest_twise",
+            "request": "launch",
+            "mainClass": "array_all.largest_twise",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "max_array",
+            "request": "launch",
+            "mainClass": "array_all.max_array",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "maxdifference_1",
+            "request": "launch",
+            "mainClass": "array_all.maxdifference_1",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "maxdifference_2",
+            "request": "launch",
+            "mainClass": "array_all.maxdifference_2",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "maxdifference_3",
+            "request": "launch",
+            "mainClass": "array_all.maxdifference_3",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "maxdifference_4",
+            "request": "launch",
+            "mainClass": "array_all.maxdifference_4",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "remove_duplicate",
+            "request": "launch",
+            "mainClass": "array_all.remove_duplicate",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "reversearray",
+            "request": "launch",
+            "mainClass": "array_all.reversearray",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "second_largest",
+            "request": "launch",
+            "mainClass": "array_all.second_largest",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "swap_index",
+            "request": "launch",
+            "mainClass": "array_all.swap_index",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "bit",
+            "request": "launch",
+            "mainClass": "bit_manipulation.bit",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "decri",
+            "request": "launch",
+            "mainClass": "recursion.decri",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "recursion.factorial",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "increase",
+            "request": "launch",
+            "mainClass": "recursion.increase",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "inputfacto",
+            "request": "launch",
+            "mainClass": "recursion.inputfacto",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "powerprogram",
+            "request": "launch",
+            "mainClass": "recursion.powerprogram",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "sorting2",
+            "request": "launch",
+            "mainClass": "sorting_programs.sorting2",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "sorting_removal",
+            "request": "launch",
+            "mainClass": "sorting_programs.sorting_removal",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "ToggleCase",
+            "request": "launch",
+            "mainClass": "string_all.ToggleCase",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
+            "name": "reverseString",
+            "request": "launch",
+            "mainClass": "string_all.reverseString",
+            "projectName": "dsa_120_1483601b"
+        }
+    ]
+}
