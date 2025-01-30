@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "VowelCount",
+            "request": "launch",
+            "mainClass": "VowelCount",
+            "projectName": "dsa_120_eddcc200"
+        },
+        {
+            "type": "java",
+            "name": "vowel_count",
+            "request": "launch",
+            "mainClass": "vowel_count",
+            "projectName": "dsa_120_eddcc200"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
