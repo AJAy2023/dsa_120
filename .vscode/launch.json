@@ -6,10 +6,24 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "SortingOrder_removal",
             "request": "launch",
             "mainClass": "sorting_programs.SortingOrder_removal",
             "projectName": "dsa_120_1483601b"
+=======
+            "name": "VowelCount",
+            "request": "launch",
+            "mainClass": "VowelCount",
+            "projectName": "dsa_120_eddcc200"
+        },
+        {
+            "type": "java",
+            "name": "vowel_count",
+            "request": "launch",
+            "mainClass": "vowel_count",
+            "projectName": "dsa_120_eddcc200"
+>>>>>>> 21abe4063713bb8e56c7c57bb0080161a9fa636e
         },
         {
             "type": "java",
