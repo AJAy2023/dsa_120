@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SortingOrder_removal",
+            "request": "launch",
+            "mainClass": "sorting_programs.SortingOrder_removal",
+            "projectName": "dsa_120_1483601b"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
