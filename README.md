@@ -1,5 +1,12 @@
-# dsa_120
-# array
-#2d Array 
-#strings 
-#Recursion 
+#  dsa_120
+
+## THE DSA-PROBLEMS 
+
+# ARRAY
+# 2d Array 
+# STRINGS
+# RECURSION 
+# BIT-MANIPULATION
+# SORTING
+# HASH-MAP
+
