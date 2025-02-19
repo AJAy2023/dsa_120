@@ -9,7 +9,7 @@ public class bit {
         // Create a Scanner object for input
         Scanner scn = new Scanner(System.in);
         
-        // Read the input number
+    
         int n = scn.nextInt();
         
         // Determine and print whether the number is even or odd
