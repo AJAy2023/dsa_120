@@ -9,5 +9,6 @@
 # BIT-MANIPULATION
 # SORTING
 # HASH-MAP
-#class-objects
+# class & objects
+
 
