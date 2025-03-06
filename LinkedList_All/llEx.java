@@ -1,4 +1,3 @@
-package LinkedList_All;
 
 class Node{
 
