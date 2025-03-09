@@ -24,7 +24,7 @@ public static void main(String[] args) {
 
     Node temp = list1;
     while (temp != null) {
-        System.out.print(temp.data + "->");
+        System.out.print(temp.data  + "->");
         temp = temp.next;
     }
     System.out.println("null");
